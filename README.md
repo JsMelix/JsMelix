@@ -1,10 +1,8 @@
-Sebastian Melo Front Developer in Process...
-Geeker Life & Platzerito
 ![Image of Banner](https://geekculture.co/wp-content/uploads/2020/05/halo-2-anniversary.jpg)
 
 
 
-### Sebastian  
+### Sebastian Melo Front Developer in Process... Geeker Life & Platzerito
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="undefined" width="600" />
 </div>  
