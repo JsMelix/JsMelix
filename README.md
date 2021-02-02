@@ -1,4 +1,4 @@
-![Image of Banner](https://geekculture.co/wp-content/uploads/2020/05/halo-2-anniversary.jpg)
+![Image of Banner]()
 
 
 
@@ -49,4 +49,4 @@
 <br />
 
 ----
-<div align="center">Platzerito <a href="https://platzi.com/@SebastianMelo7/" target="_blank">Platzi User</a></div>
+<div align="center">Platzerito <a href="https://platzi.com/p/SedarkstianM7/" target="_blank">Platzi User</a></div>
