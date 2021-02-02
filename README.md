@@ -2,7 +2,7 @@
 
 
 
-### Sebastian Melo Front Developer in Process... Geeker Life & Platzerito
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="undefined" width="600" />
 </div>  
