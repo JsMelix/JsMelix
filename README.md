@@ -8,7 +8,7 @@
 </div>  
   
 
-### <div align="center">I'm Sebastian Melo, a process Front Developer 👨‍💻 Platzi Student 🚀</div>  
+### <div align="center">I'm Sebastian Melo, a process Front Developer 👨‍💻 Student 🚀</div>  
   
 
 - 🌱 I’m currently learning   
@@ -49,4 +49,4 @@
 <br />
 
 ----
-<div align="center">Platzerito <a href="https://platzi.com/p/SedarkstianM7/" target="_blank">Platzi User</a></div>
+<div align="center">Hola <a href="https://platzi.com/p/SedarkstianM7/" target="_blank">Platzi User</a></div>
