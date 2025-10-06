@@ -1,52 +1,48 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# Hi there! 👋
 
-###
+## About Me:
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+I'm Sebastian Melo, a Python AI Developer and Blockchain Builder with a passion for disruptive technologies and emerging trends in the tech industry. My commitment to constant learning and exploring new opportunities drives me to engage in a variety of projects and collaborations.
 
-###
+- 🚀 Active contributor with 208 commits showcasing proficiency in Python, TypeScript, JavaScript, HTML, and CSS.
+- 🌱 Creator of 10 repositories covering AI, UI design, and game development.
+- 👨‍💻 Collaborator on popular projects like "news-translation-tasks" and "VocationalAI."
+- 📈 Established presence on GitHub with 26 followers, 194 public repositories, and 24 PRs.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+## Skills:
 
-###
+- **Python**
+- **AI and Machine Learning**
+- **Blockchain Development**
+- **Frontend Development (React, HTML, CSS)**
+- **UI/UX Design**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=JsMelix&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### Contact Me:
 
-###
+- 📫 Reach out via email: [sebastianmelo@gmail.com](mailto:sebastianmelo@gmail.com)
+- 📱 Connect on LinkedIn: [Sebastian Melo - LinkedIn](https://www.linkedin.com/in/sebastianmelo)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## GitHub Stats:
 
-###
+- ![Github Stats](https://github-readme-stats.vercel.app/api?username=JsMelix)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JsMelix)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=JsMelix)](https://github.com/JsMelix)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=JsMelix)](https://git.io/streak-stats)
+
+## Projects:
+
+- AI Project 1
+- UI Design Project
+- Game Development Project
+- Blockchain Project
+
+## Conclusion:
+
+My GitHub profile reflects a dynamic and versatile developer enthusiastic about AI, open-source collaboration, and cutting-edge technologies. Feel free to explore my projects and reach out for any inquiries or potential collaborations. Let's innovate together! 🚀
+
+---
+
+_Stay Connected:_
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sebastianmelo)
+[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:sebastianmelo@gmail.com)
