@@ -22,8 +22,6 @@ I'm Sebastian Melo, a Python AI Developer and Blockchain Builder with a passion 
 - **AI and Machine Learning**
 - **Blockchain Development**
 - **Frontend Development (React, HTML, CSS)**
-- **UI/UX Design**
-
 
 
 
